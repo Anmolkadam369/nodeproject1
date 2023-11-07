@@ -22,7 +22,7 @@ bookCover : "fileName",
 
 Response: The created book object.
 
-# bookCover is taking a photo which is stored in AWS S3 account with safty.
+ bookCover is taking a photo which is stored in AWS S3 account with safty.
 
 ------------------------------------------------------------------------------------------------------------------
  
@@ -32,7 +32,7 @@ URL: /getData/:readerId
 Method: GET
 Response: An array of book objects.
 
-# I applied Authentication and Authorization in this field a reader needs to be logged in for doing this activity.
+ I applied Authentication and Authorization in this field a reader needs to be logged in for doing this activity.
 ------------------------------------------------------------------------------------------------------------------
 
 View Details of a Specific Book by ID
@@ -40,7 +40,7 @@ View Details of a Specific Book by ID
   Method: GET
  Response: The book object with the specified ID.
 
-# I applied Authentication and Authorization in this field a reader needs to be logged in for doing this activity.
+ I applied Authentication and Authorization in this field a reader needs to be logged in for doing this activity.
 ------------------------------------------------------------------------------------------------------------------
 
 Update a Book's Details
@@ -63,7 +63,7 @@ Response: The deleted book object.
 
   ------------------------------------------------------------------------------------------------------------------
 
-# created User (just to add authentication and authorzation part)
+ created User (just to add authentication and authorzation part)
 URL : /registerReader
 Method : POST
  { 
@@ -72,7 +72,7 @@ Method : POST
 
 Response : object returns.
   ------------------------------------------------------------------------------------------------------------------
-# login User (added jwt token)
+ login User (added jwt token)
 URL : /loginReader
 Method: POST
 
