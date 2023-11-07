@@ -57,9 +57,9 @@ Method: DELETE
 Response: The deleted book object.
 Setting Up and Running the Application Locally Follow these steps to set up and run the application locally:
 
-1 Clone the repository: git clone https://github.com/Anmolkadam369/nodeproject.git 
+1 Clone the repository: git clone https://github.com/Anmolkadam369/nodeproject1.git 
 
-cd nodeproject   
+cd nodeproject1   
 
 2 install dependencies npm install
 
