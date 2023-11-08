@@ -92,6 +92,8 @@ Setting Up and Running the Application Locally Follow these steps to set up and 
 
 cd nodeproject1   
 
+cd src
+
 2 install dependencies npm install
 
 3 run the code npx nodemon
